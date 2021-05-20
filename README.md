@@ -1,4 +1,4 @@
-This is a template DREU project site. You can start with this and modify it in any way you like, so long as it is still hosted in a git repository.
+This is a template REU AICT 2021 project site. You can start with this and modify it in any way you like, so long as it is still hosted in a git repository.
 
 ## Quick Start
 
