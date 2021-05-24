@@ -8,11 +8,11 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Hi! I am a rising sohphomore at Columbia University, majoring in Earth and Environmental Engineering.
 
 ## About My Mentor
 
-Mentor info goes here.
+My mentor is Dr. Christian Vogler.
 
 ## About My Project
 
